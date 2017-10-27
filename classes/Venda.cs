@@ -24,6 +24,5 @@ namespace cadastrovendaspoo.classes{
         public DateTime Datavenda { get{return datavenda;} set{datavenda=value;}}
 
 
-
     }
 }
