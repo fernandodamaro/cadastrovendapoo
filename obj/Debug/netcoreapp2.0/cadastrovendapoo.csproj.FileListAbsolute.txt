@@ -1,0 +1,10 @@
+C:\Users\32998949860\poo\cadastrovendapoo\obj\Debug\netcoreapp2.0\cadastrovendapoo.csproj.CoreCompileInputs.cache
+C:\Users\32998949860\poo\cadastrovendapoo\obj\Debug\netcoreapp2.0\cadastrovendapoo.AssemblyInfoInputs.cache
+C:\Users\32998949860\poo\cadastrovendapoo\obj\Debug\netcoreapp2.0\cadastrovendapoo.AssemblyInfo.cs
+C:\Users\32998949860\poo\cadastrovendapoo\bin\Debug\netcoreapp2.0\cadastrovendapoo.deps.json
+C:\Users\32998949860\poo\cadastrovendapoo\bin\Debug\netcoreapp2.0\cadastrovendapoo.runtimeconfig.json
+C:\Users\32998949860\poo\cadastrovendapoo\bin\Debug\netcoreapp2.0\cadastrovendapoo.runtimeconfig.dev.json
+C:\Users\32998949860\poo\cadastrovendapoo\bin\Debug\netcoreapp2.0\cadastrovendapoo.dll
+C:\Users\32998949860\poo\cadastrovendapoo\bin\Debug\netcoreapp2.0\cadastrovendapoo.pdb
+C:\Users\32998949860\poo\cadastrovendapoo\obj\Debug\netcoreapp2.0\cadastrovendapoo.dll
+C:\Users\32998949860\poo\cadastrovendapoo\obj\Debug\netcoreapp2.0\cadastrovendapoo.pdb
